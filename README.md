@@ -7,7 +7,7 @@
 - Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame** 
 
 - A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
-* A "category" column that contains only the category titles
+- A "category" column that contains only the category titles
 + Export the category DataFrame as category.csv and save it to your GitHub repository.
 + Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
 + A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
@@ -39,8 +39,8 @@
 ### Create the Contacts DataFrame
 
 - Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
-* Option 1: Use Python dictionary methods.
-* Option 2: Use regular expressions.
++ Option 1: Use Python dictionary methods.
++ Option 2: Use regular expressions.
 
 - If you chose Option 1, complete the following steps:
 + Import the contacts.xlsx file into a DataFrame.
