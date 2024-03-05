@@ -41,7 +41,7 @@
 + Option 1: Use Python dictionary methods.
 + Option 2: Use regular expressions.
 
-* If you chose Option 1, complete the following steps:
+* _If you chose Option 1, complete the following steps:_
 + Import the contacts.xlsx file into a DataFrame.
 + Iterate through the DataFrame, converting each row to a dictionary.
 + Iterate through each dictionary, doing the following:
@@ -51,7 +51,7 @@
 + Split each "name" column value into a first and last name, and place each in a new column.
 + Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
 
-* If you chose Option 2, complete the following steps:
+* _If you chose Option 2, complete the following steps:_
 + Import the contacts.xlsx file into a DataFrame.
 + Extract the "contact_id", "name", and "email" columns by using regular expressions.
 + Create a new DataFrame with the extracted data.
