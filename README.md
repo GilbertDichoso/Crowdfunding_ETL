@@ -9,7 +9,7 @@
 
 * A "category" column that contains only the category titles
 
-+ The following image shows this category DataFrame:![alt="category DataFrame" tabindex="0" role="button" aria-label="category DataFrame. Click to Enlarge."] (src="https://static.bc-edx.com/data/dla-1-2/m13/lms/img/category_DataFrame.png") 
++ The following image shows this category DataFrame:!(src="https://static.bc-edx.com/data/dla-1-2/m13/lms/img/category_DataFrame.png") 
 
 
 ### Create the Campaign DataFrame
