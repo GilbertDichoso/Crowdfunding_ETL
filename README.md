@@ -17,6 +17,9 @@
 
 + A "subcategory" column that contains only the subcategory titles
 
++ Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
+   
+
 
 ### Create the Campaign DataFrame
 ### Create the Contacts DataFrame
