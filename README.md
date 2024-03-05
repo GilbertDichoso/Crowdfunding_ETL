@@ -9,11 +9,11 @@
 
 * A "category" column that contains only the category titles
 
-+ The following image shows this category DataFrame:
++ The following image shows this category DataFrame: !(src="https://static.bc-edx.com/data/dla-1-2/m13/lms/img/category_DataFrame.png" alt="category DataFrame" tabindex="0" role="button" aria-label="category DataFrame. Click to Enlarge.")
 
 
-Create the Campaign DataFrame
-Create the Contacts DataFrame
-Create the Crowdfunding Database
+### Create the Campaign DataFrame
+### Create the Contacts DataFrame
+### Create the Crowdfunding Database
 
 ###
