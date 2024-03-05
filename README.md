@@ -2,8 +2,8 @@
 
 ## The instructions for this mini project are divided into the following subsections:
 
-Create the Category and Subcategory DataFrames
-### 1.Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+### Create the Category and Subcategory DataFrames
+#### 1.Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
 -A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
 
